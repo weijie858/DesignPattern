@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP18ObserverV2\bin\Debug\DP18ObserverV2.exe
+E:\NET软件工程师1001\12DP\Code\DP18ObserverV2\bin\Debug\DP18ObserverV2.pdb
+E:\NET软件工程师1001\12DP\Code\DP18ObserverV2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP18ObserverV2\obj\x86\Debug\DP18ObserverV2.exe
+E:\NET软件工程师1001\12DP\Code\DP18ObserverV2\obj\x86\Debug\DP18ObserverV2.pdb

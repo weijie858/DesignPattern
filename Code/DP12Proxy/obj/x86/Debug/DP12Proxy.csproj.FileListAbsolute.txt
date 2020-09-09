@@ -1,0 +1,7 @@
+E:\NET软件工程师1001\12DP\Code\DP12Proxy\bin\Debug\DP12Proxy.exe
+E:\NET软件工程师1001\12DP\Code\DP12Proxy\bin\Debug\DP12Proxy.pdb
+E:\NET软件工程师1001\12DP\Code\DP12Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP12Proxy\obj\x86\Debug\DP12Proxy.exe
+E:\NET软件工程师1001\12DP\Code\DP12Proxy\obj\x86\Debug\DP12Proxy.pdb
+F:\C#学习模块\设计模式\Code\Code\DP12Proxy\obj\x86\Debug\DP12Proxy.exe
+F:\C#学习模块\设计模式\Code\Code\DP12Proxy\obj\x86\Debug\DP12Proxy.pdb

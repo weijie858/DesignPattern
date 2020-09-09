@@ -1,0 +1,10 @@
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\bin\Debug\DP05PrototypeV1.exe
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\bin\Debug\DP05PrototypeV1.pdb
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\obj\x86\Debug\DP05PrototypeV1.Properties.Resources.resources
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\obj\x86\Debug\DP05PrototypeV1.exe
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV1\obj\x86\Debug\DP05PrototypeV1.pdb
+F:\C#学习模块\设计模式\Code\Code\DP05PrototypeV1\obj\x86\Debug\DP05PrototypeV1.exe
+F:\C#学习模块\设计模式\Code\Code\DP05PrototypeV1\obj\x86\Debug\DP05PrototypeV1.pdb

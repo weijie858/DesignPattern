@@ -1,0 +1,9 @@
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV2\bin\Debug\DP05PrototypeV2.exe
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV2\bin\Debug\DP05PrototypeV2.pdb
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV2\obj\x86\Debug\DP05PrototypeV2.exe
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV2\obj\x86\Debug\DP05PrototypeV2.pdb
+E:\NET软件工程师1001\12DP\Code\DP05PrototypeV2\bin\Debug\DP05PrototypeV2.exe.config
+F:\C#学习模块\设计模式\Code\Code\DP05PrototypeV2\bin\Debug\DP05PrototypeV2.exe.config
+F:\C#学习模块\设计模式\Code\Code\DP05PrototypeV2\obj\x86\Debug\DP05PrototypeV2.exe
+F:\C#学习模块\设计模式\Code\Code\DP05PrototypeV2\obj\x86\Debug\DP05PrototypeV2.pdb

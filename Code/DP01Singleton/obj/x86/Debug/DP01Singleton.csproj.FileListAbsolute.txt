@@ -1,0 +1,11 @@
+E:\NET软件工程师1001\12DP\Code\DP01Singleton\bin\Debug\DP01Singleton.exe
+E:\NET软件工程师1001\12DP\Code\DP01Singleton\bin\Debug\DP01Singleton.pdb
+E:\NET软件工程师1001\12DP\Code\DP01Singleton\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.exe
+E:\NET软件工程师1001\12DP\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.pdb
+H:\（张波老师）C#完整视频教程[共21.7G]\12DesignPattern\【IT教程网】12DesignPattern\Day06\Code\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.exe
+H:\（张波老师）C#完整视频教程[共21.7G]\12DesignPattern\【IT教程网】12DesignPattern\Day06\Code\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.pdb
+H:\（张波老师）C#完整视频教程[共21.7G]\12DesignPattern\【IT教程网】12DesignPattern\Day01\设计模式\Code\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.exe
+H:\（张波老师）C#完整视频教程[共21.7G]\12DesignPattern\【IT教程网】12DesignPattern\Day01\设计模式\Code\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.pdb
+F:\C#学习模块\设计模式\Code\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.exe
+F:\C#学习模块\设计模式\Code\Code\DP01Singleton\obj\x86\Debug\DP01Singleton.pdb

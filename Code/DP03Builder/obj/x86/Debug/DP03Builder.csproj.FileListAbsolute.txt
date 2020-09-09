@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP03Builder\bin\Debug\DP03Builder.exe
+E:\NET软件工程师1001\12DP\Code\DP03Builder\bin\Debug\DP03Builder.pdb
+E:\NET软件工程师1001\12DP\Code\DP03Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP03Builder\obj\x86\Debug\DP03Builder.exe
+E:\NET软件工程师1001\12DP\Code\DP03Builder\obj\x86\Debug\DP03Builder.pdb

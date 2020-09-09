@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP20Memento\bin\Debug\DP20Memento.exe
+E:\NET软件工程师1001\12DP\Code\DP20Memento\bin\Debug\DP20Memento.pdb
+E:\NET软件工程师1001\12DP\Code\DP20Memento\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP20Memento\obj\x86\Debug\DP20Memento.exe
+E:\NET软件工程师1001\12DP\Code\DP20Memento\obj\x86\Debug\DP20Memento.pdb

@@ -1,0 +1,12 @@
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\bin\Debug\DP02AbstractFactory.exe
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\bin\Debug\DP02AbstractFactory.pdb
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.exe
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.pdb
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.Form1.resources
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\（张波老师）C#完整视频教程[共21.7G]\12DesignPattern\【IT教程网】12DesignPattern\Day01\设计模式\Code\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.exe
+H:\（张波老师）C#完整视频教程[共21.7G]\12DesignPattern\【IT教程网】12DesignPattern\Day01\设计模式\Code\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.pdb
+F:\C#学习模块\设计模式\Code\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.exe
+F:\C#学习模块\设计模式\Code\Code\DP02AbstractFactory\obj\x86\Debug\DP02AbstractFactory.pdb

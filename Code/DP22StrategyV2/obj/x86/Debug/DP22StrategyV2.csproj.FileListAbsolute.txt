@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP22StrategyV2\bin\Debug\DP22StrategyV2.dll
+E:\NET软件工程师1001\12DP\Code\DP22StrategyV2\bin\Debug\DP22StrategyV2.pdb
+E:\NET软件工程师1001\12DP\Code\DP22StrategyV2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP22StrategyV2\obj\x86\Debug\DP22StrategyV2.dll
+E:\NET软件工程师1001\12DP\Code\DP22StrategyV2\obj\x86\Debug\DP22StrategyV2.pdb

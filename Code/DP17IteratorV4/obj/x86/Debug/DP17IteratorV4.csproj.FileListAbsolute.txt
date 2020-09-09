@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP17IteratorV4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP17IteratorV4\bin\Debug\DP17IteratorV4.exe
+E:\NET软件工程师1001\12DP\Code\DP17IteratorV4\bin\Debug\DP17IteratorV4.pdb
+E:\NET软件工程师1001\12DP\Code\DP17IteratorV4\obj\x86\Debug\DP17IteratorV4.exe
+E:\NET软件工程师1001\12DP\Code\DP17IteratorV4\obj\x86\Debug\DP17IteratorV4.pdb

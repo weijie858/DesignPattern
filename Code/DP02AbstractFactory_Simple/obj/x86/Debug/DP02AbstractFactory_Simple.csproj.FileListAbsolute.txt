@@ -1,0 +1,7 @@
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory_Simple\bin\Debug\DP02AbstractFactory_Simple.exe
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory_Simple\bin\Debug\DP02AbstractFactory_Simple.pdb
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory_Simple\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory_Simple\obj\x86\Debug\DP02AbstractFactory_Simple.exe
+E:\NET软件工程师1001\12DP\Code\DP02AbstractFactory_Simple\obj\x86\Debug\DP02AbstractFactory_Simple.pdb
+F:\C#学习模块\设计模式\Code\Code\DP02AbstractFactory_Simple\obj\x86\Debug\DP02AbstractFactory_Simple.exe
+F:\C#学习模块\设计模式\Code\Code\DP02AbstractFactory_Simple\obj\x86\Debug\DP02AbstractFactory_Simple.pdb

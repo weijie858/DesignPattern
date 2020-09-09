@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP08Composite\bin\Debug\DP08Composite.exe
+E:\NET软件工程师1001\12DP\Code\DP08Composite\bin\Debug\DP08Composite.pdb
+E:\NET软件工程师1001\12DP\Code\DP08Composite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP08Composite\obj\x86\Debug\DP08Composite.exe
+E:\NET软件工程师1001\12DP\Code\DP08Composite\obj\x86\Debug\DP08Composite.pdb

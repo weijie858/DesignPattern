@@ -1,0 +1,2 @@
+F:\C#学习模块\设计模式\Code\Code\DP02AbstractFactory_Simple\obj\x86\Debug\DP02AbstractFactory_Simple.exe
+F:\C#学习模块\设计模式\Code\Code\DP02AbstractFactory_Simple\obj\x86\Debug\DP02AbstractFactory_Simple.pdb

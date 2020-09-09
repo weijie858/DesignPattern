@@ -1,0 +1,5 @@
+E:\NET软件工程师1001\12DP\Code\DP21State\bin\Debug\DP21State.exe
+E:\NET软件工程师1001\12DP\Code\DP21State\bin\Debug\DP21State.pdb
+E:\NET软件工程师1001\12DP\Code\DP21State\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NET软件工程师1001\12DP\Code\DP21State\obj\x86\Debug\DP21State.exe
+E:\NET软件工程师1001\12DP\Code\DP21State\obj\x86\Debug\DP21State.pdb
